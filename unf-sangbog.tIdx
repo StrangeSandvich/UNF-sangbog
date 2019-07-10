@@ -1,17 +1,17 @@
 \indexentry{Vi kan ikke li'}{0}
-\indexentry{Vi er ikke humanister}{1}
-\indexentry{Jeg har set en rigtig .*}{2}
-\indexentry{Jeg vil l\IeC {\ae }se .*}{3}
-\indexentry{Glad for Fysik}{4}
-\indexentry{Jeg' en n\IeC {\o }rd}{5}
-\indexentry{Gaffa og WD-40, Oh my}{6}
-\indexentry{Doom Doom}{7}
-\indexentry{Prins Henri}{8}
-\indexentry{$\alpha \beta $-sangen}{9}
-\indexentry{alfa-beta-sangen}{9}
-\indexentry{Sort snak}{10}
-\indexentry{Sort snak}{10}
-\indexentry{En veganer}{11}
+\indexentry{Jeg har set en rigtig .*}{1}
+\indexentry{Jeg vil l\IeC {\ae }se .*}{2}
+\indexentry{Glad for Fysik}{3}
+\indexentry{Jeg' en n\IeC {\o }rd}{4}
+\indexentry{T\IeC {\r a}l daj' i l\IeC {\ae }seferien}{5}
+\indexentry{Hvad skal vi T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}'e i nat?}{6}
+\indexentry{Lav Plagiat}{7}
+\indexentry{Spas i waders}{8}
+\indexentry{Selektionssangen}{9}
+\indexentry{$\alpha \beta $-sangen}{10}
+\indexentry{alfa-beta-sangen}{10}
+\indexentry{Sort snak}{11}
+\indexentry{Sort snak}{11}
 \indexentry{Fulbert og Beatrice}{12}
 \indexentry{Ode til bacon}{13}
 \indexentry{Minken Mink}{14}
@@ -24,65 +24,43 @@
 \indexentry{Science Summer Lovin'}{21}
 \indexentry{Et helt nyt liv}{22}
 \indexentry{T\IeC {\r a}l daj' p\IeC {\r a} campen}{23}
-\indexentry{T\IeC {\r a}l daj' i l\IeC {\ae }seferien}{24}
-\indexentry{Fuck mit liv}{25}
-\indexentry{Maple-problemer}{26}
-\indexentry{Hvad skal vi T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}'e i nat?}{27}
-\indexentry{Brug \LaTeX  }{28}
-\indexentry{T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}'e-sangen}{29}
-\indexentry{Lav Plagiat}{30}
-\indexentry{Se min kode}{31}
-\indexentry{Jeg har fundet mig en bug}{32}
-\indexentry{Linieskriverdriversangen}{33}
-\indexentry{Server'n er crashed}{34}
-\indexentry{Forever DIKU}{35}
-\indexentry{Han koder slam}{36}
-\indexentry{Hjemmehackeriet}{37}
-\indexentry{Programm\IeC {\o }rens 8-bit drikkesang}{38}
-\indexentry{HTML}{39}
-\indexentry{Terminalsangen}{40}
-\indexentry{$\lambda $-kalkylen}{41}
-\indexentry{Doktrinen}{42}
-\indexentry{I morgen er verden vor}{43}
-\indexentry{DAT62$\frac  {1}{2}$80 Slagsang}{44}
-\indexentry{Hvem sidder der ved sk\IeC {\ae }rmen}{45}
-\indexentry{Hvem sidder foran sk\IeC {\ae }rmen}{46}
-\indexentry{Afrundingsfejl}{47}
-\indexentry{Editorhyldestsangen}{48}
-\indexentry{Puslespil}{49}
-\indexentry{Ode til kode}{50}
-\indexentry{Et helt nyt sprog}{51}
-\indexentry{Vi skal kode i C}{52}
-\indexentry{*NULL}{53}
-\indexentry{Send mig dit password}{54}
-\indexentry{S\IeC {\r a} spiller vi spil}{55}
-\indexentry{Jeg kender et sprog}{56}
-\indexentry{V\IeC {\r a}benfysik}{57}
-\indexentry{Fasebal i Kvanteland}{58}
-\indexentry{$\chi $-fitter}{59}
-\indexentry{Steve Hawking}{60}
-\indexentry{Kun fysik}{61}
-\indexentry{A-kraft}{62}
-\indexentry{Kvanter i m\IeC {\r a}neskin}{63}
-\indexentry{Faster Than Light}{64}
-\indexentry{Forever kvant}{65}
-\indexentry{Den kanoniske matematikersang}{66}
-\indexentry{Mat'matik}{67}
-\indexentry{Her p\IeC {\r a} mat'matik}{68}
-\indexentry{Jeg er en matematiker fra HC\IeC {\O }}{69}
-\indexentry{Hvad er det mest matematiske}{70}
-\indexentry{En ringe historie}{71}
-\indexentry{10 sm\IeC {\r a} biorus}{72}
-\indexentry{Spas i waders}{73}
-\indexentry{Selektionssangen}{74}
-\indexentry{N\IeC {\r a}r jeg kloner min kat}{75}
-\indexentry{Busted}{76}
-\indexentry{Der er et \IeC {\o }lrigt land}{77}
-\indexentry{Puma (Stork)}{78}
-\indexentry{All Star}{79}
-\indexentry{Never Gonna Give You Up}{80}
-\indexentry{Witch Doctor}{81}
-\indexentry{K\IeC {\ae }re Linedanser}{82}
-\indexentry{En elefant kom marcherende}{83}
-\indexentry{Den rekursive skovsang}{84}
-\indexentry{Jeg ved en l\IeC {\ae }rkerede}{85}
+\indexentry{Steffens sang}{24}
+\indexentry{Se min kode}{25}
+\indexentry{Jeg har fundet mig en bug}{26}
+\indexentry{Linieskriverdriversangen}{27}
+\indexentry{Server'n er crashed}{28}
+\indexentry{Doom Doom}{29}
+\indexentry{Forever DIKU}{30}
+\indexentry{Hjemmehackeriet}{31}
+\indexentry{HTML}{32}
+\indexentry{$\lambda $-kalkylen}{33}
+\indexentry{Doktrinen}{34}
+\indexentry{Hvem sidder der ved sk\IeC {\ae }rmen}{35}
+\indexentry{Hvem sidder foran sk\IeC {\ae }rmen}{36}
+\indexentry{Puslespil}{37}
+\indexentry{Ode til kode}{38}
+\indexentry{Et helt nyt sprog}{39}
+\indexentry{Vi skal kode i C}{40}
+\indexentry{*NULL}{41}
+\indexentry{I morgen er verden vor}{42}
+\indexentry{DAT62$\frac  {1}{2}$80 Slagsang}{43}
+\indexentry{Send mig dit password}{44}
+\indexentry{S\IeC {\r a} spiller vi spil}{45}
+\indexentry{Jeg kender et sprog}{46}
+\indexentry{V\IeC {\r a}benfysik}{47}
+\indexentry{Fasebal i Kvanteland}{48}
+\indexentry{$\chi $-fitter}{49}
+\indexentry{Steve Hawking}{50}
+\indexentry{Kun fysik}{51}
+\indexentry{Kvanter i m\IeC {\r a}neskin}{52}
+\indexentry{Forever kvant}{53}
+\indexentry{Den kanoniske matematikersang}{54}
+\indexentry{Mat'matik}{55}
+\indexentry{Her p\IeC {\r a} mat'matik}{56}
+\indexentry{Jeg er en matematiker fra HC\IeC {\O }}{57}
+\indexentry{Hvad er det mest matematiske}{58}
+\indexentry{En ringe historie}{59}
+\indexentry{K\IeC {\ae }re Linedanser}{60}
+\indexentry{En elefant kom marcherende}{61}
+\indexentry{Den rekursive skovsang}{62}
+\indexentry{Jeg ved en l\IeC {\ae }rkerede}{63}
