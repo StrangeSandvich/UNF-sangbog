@@ -1,165 +1,117 @@
+%\begin{theindex}
 
-  \item $\alpha \beta $-sangen,~13
-  \item $\chi $-fitter,~57
-  \item $\lambda $-kalkylen,~47
-  \item $\rho $-$\phi $-$\mu $,~60
-  \item 10 sm\IeC {\r a} biorus,~89
-
-  \indexspace
-
-  \item A-kraft,~61
-  \item Afrundingsfejl,~51
-  \item alfa-beta-sangen,~13
-  \item All Star,~99
-  \item ASTRID,~55
+  \item $\alpha \beta $-sangen, 10
+  \item $\chi $-fitter, 49
+  \item $\lambda $-kalkylen, 33
+  \item *NULL, 41
 
   \indexspace
 
-  \item Bevis for Sk\IeC {\ae }ringss\IeC {\ae }tningen,~85
-  \item Brug \LaTeX  ,~33
-  \item Busted,~96
+  \item A-kraft, 52
+  \item alfa-beta-sangen, 10
 
   \indexspace
 
-  \item DAT62$\frac  {1}{2}$80 Slagsang,~43
-  \item De seje tings sang,~65
-  \item Den kanoniske matematikersang,~70
-  \item Den rekursive skovsang,~102
-  \item Der er et \IeC {\o }lrigt land,~97
-  \item Det var i 1944,~19
-  \item Determinanter,~80
-  \item Din mor,~6
-  \item Din TBF,~20
-  \item Doktrinen,~48
-  \item Doom Doom,~10
-  \item Du skal regne kvant,~68
+  \item DAT62$\frac  {1}{2}$80 Slagsang, 43
+  \item Den kanoniske matematikersang, 55
+  \item Den rekursive skovsang, 63
+  \item Det var i 1944, 16
+  \item Din TBF, 17
+  \item Doktrinen, 34
+  \item Doom Doom, 29
 
   \indexspace
 
-  \item Editorhyldestsangen,~52
-  \item Eksamensangst,~27
-  \item En elefant kom marcherende,~101
-  \item En ringe historie,~84
-  \item En veganer,~15
-  \item Er du dus med Grassmans Lemma,~73
-  \item Et helt nyt liv,~25
+  \item En elefant kom marcherende, 62
+  \item En ringe historie, 60
+  \item Et helt nyt liv, 22
+  \item Et helt nyt sprog, 39
 
   \indexspace
 
-  \item Fasebal i Kvanteland,~54
-  \item Faster Than Light,~63
-  \item Forever DIKU,~39
-  \item Forever kvant,~67
-  \item Fuck mit liv,~29
-  \item Fulbert og Beatrice,~12
+  \item Fasebal i Kvanteland, 48
+  \item Forever DIKU, 30
+  \item Forever kvant, 54
+  \item Fulbert og Beatrice, 12
 
   \indexspace
 
-  \item Gaffa og WD-40, Oh my,~9
-  \item Glad for Fysik,~7
+  \item Glad for Fysik, 3
 
   \indexspace
 
-  \item Han koder slam,~40
-  \item Her p\IeC {\r a} mat'matik,~74
-  \item Hjemmehackeriet,~41
-  \item HTML,~45
-  \item Humanist,~2
-  \item Hvad er det mest matematiske,~83
-  \item Hvad m\IeC {\r a} man? (som arrang\IeC {\o }r),~22
-  \item Hvad skal vi \TeX'e i nat?,~32
-  \item Hvem sidder der ved sk\IeC {\ae }rmen,~49
-  \item Hvem sidder foran sk\IeC {\ae }rmen,~50
-  \item Hymne til Matematik Camp,~21
+  \item Her p\IeC {\r a} mat'matik, 57
+  \item Hjemmehackeriet, 31
+  \item HTML, 32
+  \item Hvad er det mest matematiske, 59
+  \item Hvad m\IeC {\r a} man? (som arrang\IeC {\o }r), 19
+  \item Hvad skal vi \TeX'e i nat?, 6
+  \item Hvem sidder der ved sk\IeC {\ae }rmen, 35
+  \item Hvem sidder foran sk\IeC {\ae }rmen, 36
+  \item Hymne til Matematik Camp, 18
 
   \indexspace
 
-  \item I morgen er verden vor,~42
-  \item Ingeni\IeC {\o }rsangen,~16
-  \item Integralsangen,~79
+  \item I morgen er verden vor, 42
 
   \indexspace
 
-  \item Jeg er en matematiker fra HC\IeC {\O },~75
-  \item Jeg er fysiker,~56
-  \item Jeg har fundet mig en bug,~36
-  \item Jeg har set en rigtig .*,~4
-  \item Jeg ved en l\IeC {\ae }rkerede,~103
-  \item Jeg vil l\IeC {\ae }se .*,~5
-  \item Jeg' en n\IeC {\o }rd,~8
+  \item Jeg er en matematiker fra HC\IeC {\O }, 58
+  \item Jeg har fundet mig en bug, 26
+  \item Jeg har set en rigtig .*, 1
+  \item Jeg kender et sprog, 46
+  \item Jeg ved en l\IeC {\ae }rkerede, 64
+  \item Jeg vil l\IeC {\ae }se .*, 2
+  \item Jeg' en n\IeC {\o }rd, 4
 
   \indexspace
 
-  \item Kemisk elskovsvise,~87
-  \item Kemisk julevise,~88
-  \item Kun fysik,~59
-  \item Kvantepartiklen,~66
-  \item Kvanter i m\IeC {\r a}neskin,~62
+  \item K\IeC {\ae }re Linedanser, 61
+  \item Kun fysik, 51
+  \item Kvanter i m\IeC {\r a}neskin, 53
 
   \indexspace
 
-  \item Laborant,~92
-  \item Linieskriverdriversangen,~37
+  \item Lav Plagiat, 7
+  \item Linieskriverdriversangen, 27
 
   \indexspace
 
-  \item Maple-problemer,~30
-  \item Mat'matik,~71
-  \item Matematikkens Historie 2,~77
-  \item Matrixrepr\IeC {\ae }sentationsteoremet,~72
-  \item Minken Mink,~17
+  \item Mat'matik, 56
+  \item Minken Mink, 14
 
   \indexspace
 
-  \item N\IeC {\r a}r en humanist adderer,~3
-  \item N\IeC {\r a}r jeg kloner min kat,~94
-  \item N\IeC {\r a}r jeg ser en bombe spr\IeC {\ae }nge,~69
-  \item N\IeC {\r a}r jeg ser en sort klap falde,~28
-  \item Nano,~91
-  \item Never Gonna Give You Up,~100
+  \item Ode til bacon, 13
+  \item Ode til kode, 38
 
   \indexspace
 
-  \item Ode til analyse 0,~81
-  \item Ode til analyse 1,~82
-  \item Ode til bacon,~11
+  \item Puslespil, 37
 
   \indexspace
 
-  \item P\IeC {\r a} mat'matik,~76
-  \item Pest,~95
-  \item Primtal,~78
-  \item Programm\IeC {\o }rens 8-bit drikkesang,~44
-  \item Puma (Stork),~98
+  \item S\IeC {\r a} spiller vi spil, 45
+  \item Science Summer Lovin', 21
+  \item ScienceCamps, 15
+  \item Se min kode, 25
+  \item Selektionssangen, 9
+  \item Send mig dit password, 44
+  \item Server'n er crashed, 28
+  \item Sort snak, 11
+  \item Spas i waders, 8
+  \item Steffens sang, 24
+  \item Steve Hawking, 50
 
   \indexspace
 
-  \item Reception,~31
+  \item T\IeC {\r a}l daj' i l\IeC {\ae }seferien, 5
+  \item T\IeC {\r a}l daj' p\IeC {\r a} campen, 23
 
   \indexspace
 
-  \item Science Summer Lovin',~24
-  \item ScienceCamps,~18
-  \item Se min kode,~35
-  \item Selektionssangen,~93
-  \item Server'n er crashed,~38
-  \item Sort snak,~14
-  \item Spad i waders,~90
-  \item Steve Hawking,~58
+  \item V\IeC {\r a}benfysik, 47
+  \item Vi kan ikke li', 0
+  \item Vi skal kode i C, 40
 
-  \indexspace
-
-  \item T\IeC {\r a}l daj' i l\IeC {\ae }seferien,~26
-  \item \TeX'e-sangen,~34
-  \item Terminalsangen,~46
-  \item The New Periodic Table Song,~86
-
-  \indexspace
-
-  \item V\IeC {\r a}benfysik,~53
-  \item Vi er ikke humanister,~1
-  \item Vi kan ikke li',~0
-
-  \indexspace
-
-  \item YBCO,~64
+%\end{theindex}
