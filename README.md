@@ -8,6 +8,8 @@ Hvis du vil tilføje din egen sang så lav en kopi af template i songs mappen og
 Sørg for at "Fulbert og Beatrice" er nummer 12 (Vi sørger for at den er på side 10 senere)
 Sørg for at "I morgen er verden vor" er nummer 42 og at DAT62 er nummer 43
 
+Ændr forside, footer, header og side 2 til at reflektere den nye bog
+
 Compiler sangbogen ved brug af "pdflatex unf-sangbog.tex". 
 Hvis du ikke har pdflatex så skal du på Linux installere texlive-latex-extra og texlive-science
 
