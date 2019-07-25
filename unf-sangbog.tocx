@@ -1,78 +1,125 @@
+\section*{Os mod de andre}
+\item\ 0. Vi kan ikke li'
+\item\ 1. Vi er ikke humanister
+\item\ 2. Humanist
+\item\ 3. N\IeC {\r a}r en humanist adderer
+\item\ 4. Jeg har set en rigtig .*
+\item\ 5. Jeg vil l\IeC {\ae }se .*
+\item\ 6. Din mor
+\item\ 7. Glad for Fysik
+
 \section*{Diverse}
-\item\ 0. Vi kan ikke li'\hbox {, 6}
-\item\ 1. Jeg har set en rigtig .*\hbox {, 7}
-\item\ 2. Jeg vil l\IeC {\ae }se .*\hbox {, 8}
-\item\ 3. Glad for Fysik\hbox {, 10}
-\item\ 4. Jeg' en n\IeC {\o }rd\hbox {, 10}
-\item\ 5. T\IeC {\r a}l daj' i l\IeC {\ae }seferien\hbox {, 11}
-\item\ 6. Hvad skal vi \TeX'e i nat?\hbox {, 12}
-\item\ 7. Lav Plagiat\hbox {, 13}
-\item\ 8. Spas i waders\hbox {, 14}
-\item\ 9. Selektionssangen\hbox {, 14}
-\item\ 10. $\alpha \beta $-sangen\hbox {, 15}
-\item\ 10. alfa-beta-sangen\hbox {, 15}
-\item\ 11. Sort snak\hbox {, 10}
-\item\ 11. Sort snak\hbox {, 10}
-\item\ 12. Fulbert og Beatrice\hbox {, 10}
-\item\ 13. Ode til bacon\hbox {, 17}
+\item\ 8. Jeg' en n\IeC {\o }rd
+\item\ 9. Gaffa og WD-40, Oh my
+\item\ 10. Doom Doom
+\item\ 11. Ode til bacon
+\item\ 12. Fulbert og Beatrice
+\item\ 13. $\alpha \beta $-sangen
+\item\ 13. alfa-beta-sangen
+\item\ 14. Sort snak
+\item\ 14. Sort snak
+\item\ 15. En veganer
+\item\ 16. Ingeni\IeC {\o }rsangen
 
 \section*{UNF}
-\item\ 14. Minken Mink\hbox {, 20}
-\item\ 15. ScienceCamps\hbox {, 20}
-\item\ 16. Det var i 1944\hbox {, 21}
-\item\ 17. Din TBF\hbox {, 21}
-\item\ 18. Hymne til Matematik Camp\hbox {, 22}
-\item\ 19. Hvad m\IeC {\r a} man? (som arrang\IeC {\o }r)\hbox {, 23}
-\item\ 20. Jeg elsker "science"\hbox {, 24}
-\item\ 21. Science Summer Lovin'\hbox {, 25}
-\item\ 22. Et helt nyt liv\hbox {, 26}
-\item\ 23. T\IeC {\r a}l daj' p\IeC {\r a} campen\hbox {, 26}
-\item\ 24. Steffens sang\hbox {, 27}
+\item\ 17. Minken Mink
+\item\ 18. ScienceCamps
+\item\ 19. Det var i 1944
+\item\ 20. Din TBF
+\item\ 21. Hymne til Matematik Camp
+\item\ 22. Hvad m\IeC {\r a} man? (som arrang\IeC {\o }r)
+\item\ 23. Jeg elsker "science"
+\item\ 24. Science Summer Lovin'
+\item\ 25. Et helt nyt liv
+
+\section*{Studieliv og \LaTeX}
+\item\ 26. T\IeC {\r a}l daj' i l\IeC {\ae }seferien
+\item\ 27. Eksamensangst
+\item\ 28. N\IeC {\r a}r jeg ser en sort klap falde
+\item\ 29. Fuck mit liv
+\item\ 30. Maple-problemer
+\item\ 31. Reception
+\item\ 32. Hvad skal vi \TeX'e i nat?
+\item\ 33. Brug \LaTeX  
+\item\ 34. \TeX'e-sangen
 
 \section*{Datalogi}
-\item\ 25. Se min kode\hbox {, 30}
-\item\ 26. Jeg har fundet mig en bug\hbox {, 30}
-\item\ 27. Linieskriverdriversangen\hbox {, 31}
-\item\ 28. Server'n er crashed\hbox {, 32}
-\item\ 29. Doom Doom\hbox {, 32}
-\item\ 30. Forever DIKU\hbox {, 33}
-\item\ 31. Hjemmehackeriet\hbox {, 34}
-\item\ 32. HTML\hbox {, 35}
-\item\ 33. $\lambda $-kalkylen\hbox {, 36}
-\item\ 34. Doktrinen\hbox {, 37}
-\item\ 35. Hvem sidder der ved sk\IeC {\ae }rmen\hbox {, 37}
-\item\ 36. Hvem sidder foran sk\IeC {\ae }rmen\hbox {, 38}
-\item\ 37. Puslespil\hbox {, 38}
-\item\ 38. Ode til kode\hbox {, 39}
-\item\ 39. Et helt nyt sprog\hbox {, 40}
-\item\ 40. Vi skal kode i C\hbox {, 41}
-\item\ 41. *NULL\hbox {, 41}
-\item\ 42. I morgen er verden vor\hbox {, 42}
-\item\ 43. DAT62$\frac  {1}{2}$80 Slagsang\hbox {, 42}
-\item\ 44. Send mig dit password\hbox {, 43}
-\item\ 45. S\IeC {\r a} spiller vi spil\hbox {, 44}
-\item\ 46. Jeg kender et sprog\hbox {, 45}
+\item\ 35. Se min kode
+\item\ 36. Jeg har fundet mig en bug
+\item\ 37. Linieskriverdriversangen
+\item\ 38. Server'n er crashed
+\item\ 39. Forever DIKU
+\item\ 40. Han koder slam
+\item\ 41. Hjemmehackeriet
+\item\ 42. I morgen er verden vor
+\item\ 43. DAT62$\frac  {1}{2}$80 Slagsang
+\item\ 44. Programm\IeC {\o }rens 8-bit drikkesang
+\item\ 45. HTML
+\item\ 46. Terminalsangen
+\item\ 47. $\lambda $-kalkylen
+\item\ 48. Doktrinen
+\item\ 49. Hvem sidder der ved sk\IeC {\ae }rmen
+\item\ 50. Hvem sidder foran sk\IeC {\ae }rmen
+\item\ 51. Afrundingsfejl
+\item\ 52. Editorhyldestsangen
 
 \section*{Fysik}
-\item\ 47. V\IeC {\r a}benfysik\hbox {, 48}
-\item\ 48. Fasebal i Kvanteland\hbox {, 48}
-\item\ 49. $\chi $-fitter\hbox {, 49}
-\item\ 50. Steve Hawking\hbox {, 50}
-\item\ 51. Kun fysik\hbox {, 50}
-\item\ 52. A-kraft\hbox {, 51}
-\item\ 53. Kvanter i m\IeC {\r a}neskin\hbox {, 52}
-\item\ 54. Forever kvant\hbox {, 52}
+\item\ 53. V\IeC {\r a}benfysik
+\item\ 54. Fasebal i Kvanteland
+\item\ 55. ASTRID
+\item\ 56. Jeg er fysiker
+\item\ 57. $\chi $-fitter
+\item\ 58. Steve Hawking
+\item\ 59. Kun fysik
+\item\ 60. $\rho $-$\phi $-$\mu $
+\item\ 61. A-kraft
+\item\ 62. Kvanter i m\IeC {\r a}neskin
+\item\ 63. Faster Than Light
+\item\ 64. YBCO
+\item\ 65. De seje tings sang
+\item\ 66. Kvantepartiklen
+\item\ 67. Forever kvant
+\item\ 68. Du skal regne kvant
+\item\ 69. N\IeC {\r a}r jeg ser en bombe spr\IeC {\ae }nge
 
 \section*{Matematik}
-\item\ 55. Den kanoniske matematikersang\hbox {, 56}
-\item\ 56. Mat'matik\hbox {, 57}
-\item\ 57. Her p\IeC {\r a} mat'matik\hbox {, 57}
-\item\ 58. Jeg er en matematiker fra HC\IeC {\O }\hbox {, 58}
-\item\ 59. Hvad er det mest matematiske\hbox {, 59}
-\item\ 60. En ringe historie\hbox {, 60}
+\item\ 70. Den kanoniske matematikersang
+\item\ 71. Mat'matik
+\item\ 72. Matrixrepr\IeC {\ae }sentationsteoremet
+\item\ 73. Er du dus med Grassmans Lemma
+\item\ 74. Her p\IeC {\r a} mat'matik
+\item\ 75. Jeg er en matematiker fra HC\IeC {\O }
+\item\ 76. P\IeC {\r a} mat'matik
+\item\ 77. Matematikkens Historie 2
+\item\ 78. Primtal
+\item\ 79. Integralsangen
+\item\ 80. Determinanter
+\item\ 81. Ode til analyse 0
+\item\ 82. Ode til analyse 1
+\item\ 83. Hvad er det mest matematiske
+\item\ 84. En ringe historie
+\item\ 85. Bevis for Sk\IeC {\ae }ringss\IeC {\ae }tningen
+
+\section*{Kemi, Biologi og Nano}
+\item\ 86. The New Periodic Table Song
+\item\ 87. Kemisk elskovsvise
+\item\ 88. Kemisk julevise
+\item\ 89. 10 sm\IeC {\r a} biorus
+\item\ 90. Spad i waders
+\item\ 91. Nano
+\item\ 92. Laborant
+\item\ 93. Selektionssangen
+\item\ 94. N\IeC {\r a}r jeg kloner min kat
+\item\ 95. Pest
+
+\section*{Alkohol og druk}
+\item\ 96. Busted
+\item\ 97. Der er et \IeC {\o }lrigt land
 
 \section*{Almindelige sange}
-\item\ 61. K\IeC {\ae }re Linedanser\hbox {, 62}
-\item\ 62. En elefant kom marcherende\hbox {, 63}
-\item\ 63. Den rekursive skovsang\hbox {, 63}
-\item\ 64. Jeg ved en l\IeC {\ae }rkerede\hbox {, 63}
+\item\ 98. Puma (Stork)
+\item\ 99. All Star
+\item\ 100. Never Gonna Give You Up
+\item\ 101. En elefant kom marcherende
+\item\ 102. Den rekursive skovsang
+\item\ 103. Jeg ved en l\IeC {\ae }rkerede

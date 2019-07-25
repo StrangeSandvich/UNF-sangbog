@@ -134,7 +134,7 @@
 %%%
 % Title page information.
 %%%
-\title{UNF Computer Science Camp 2019 Sangbog}
+\title{UNF Sangbogen}
 \author{}
 \date{Revideret:  \RevDate}
 
@@ -193,7 +193,7 @@
 %%%
 \makeTitleIndex         %% Title and First Line Index.
 \makeTitleContents      %% Table of Contents.
-%\makeKeyIndex           %% Index of song by key.
+% \makeKeyIndex           %% Index of song by key.
 % \makeArtistIndex	%% Index of song by artist.
 \newcommand{\SBThechapter}[0]{}
 \newcommand{\SBChapter}[1]{
@@ -233,20 +233,7 @@
 %%%
 % Uncomment "\maketitle" statement to make a title page.
 %%%
-%\maketitle
-\begin{titlepage}
-  \centering
-  \vspace{5cm}
-	\includegraphics[width=1\textwidth]{unf_logo.jpeg}\par\vspace{1cm}
-	{\scshape\LARGE Sangbog \par}
-	\vspace{1cm}
-	{\scshape\Large UNF Computer Science Camp 2019\par}
-	
-	\vfill
-
-% Bottom of the page
-	{\large \today\par}
-\end{titlepage}
+\maketitle
 % \mainmatter
 % \ifWordBk
 %   \twocolumn
@@ -255,11 +242,14 @@
 
 %%% Kolofon
 \thispagestyle{empty}
-Sammensat til UNF Computer Science Camp 2019 - csc.unf.dk\\
-Redaktør: Andreas Mosbæk Jensen m.fl. efter tidligere sangbog af Steffen Strunge Mathiesen\\
-Indhold opsat i \LaTeX. 
+Sammensat til UNF ScienceCamps 2018 - unf.dk/sciencecamps\\
+Redaktør: Steffen Strunge Mathiesen m.fl.\\
+Indhold opsat i \LaTeX. Omslag opsat i Adobe InDesign.\\
+Design af omslag: KathArt Interactive\\
+Forsidebillede: <kilde>\\ % TODO
+Trykkeri: LaserTryk\\
 Digital version og kildekode: github.com/steffen555/UNF-sangbog\\
-Revision 1 med stave fejl korrektioner
+Historiske versioner: unf.dk/sangbog
 \par\vspace*{\fill}
 Hvis du har forslag til sange, rettelser, ris og ros, eller hvis du kender en ukendt forfatter, så skriv til sangbog@unf.dk.
 
@@ -295,7 +285,7 @@ Hvis du har forslag til sange, rettelser, ris og ros, eller hvis du kender en uk
   \fancyhead[RE,LO]{\RHeadFont \SBThechapter}
 \fi\fi\fi
 
-\fancyfoot[LE,RO]{\LFootFont Computer Science Camp 2019}
+\fancyfoot[LE,RO]{\LFootFont ScienceCamps 2018}
 \ifSongEject
   \fancyfoot[CE,CO]{\CFootFont Last Revised:  \RevDate}
 \else
@@ -339,39 +329,32 @@ Hvis du har forslag til sange, rettelser, ris og ros, eller hvis du kender en uk
 %%%
 % Songbook begins.
 %%%
-
+\onecolumn
+\SBChapter{Os mod de andre}
+\twocolumn
+\input{songs/vi_kan_ikke_li.tex}
+\input{songs/vi_er_ikke_humanister.tex}
+% \input{songs/er_jeg_humanist.tex}
+\input{songs/humanist.tex}
+\input{songs/humanist_adderer.tex}
+\input{songs/jeg_har_set_en_rigtig.tex}
+\input{songs/jeg_vil_laese.tex}
+\input{songs/din_mor.tex}
+\input{songs/glad_for_fysik.tex}
 
 \onecolumn
 \SBChapter{Diverse}
 \twocolumn
-\input{songs/vi_kan_ikke_li.tex}
-%\input{songs/vi_er_ikke_humanister.tex}
-\input{songs/jeg_har_set_en_rigtig.tex}
-\input{songs/jeg_vil_laese.tex}
-\input{songs/glad_for_fysik.tex}
 \input{songs/jeg_en_noerd.tex}
-%\input{songs/gaffa_wd40.tex}
-\input{songs/taal_daj.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
-\input{songs/texe_i_nat.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
-\input{songs/lav_plagiat.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
-\input{songs/spas_i_waders.tex}
-\input{songs/selektionssangen.tex}
-%\input{songs/prins_henri.tex}
-\input{songs/alfabetsangen.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
-\input{songs/sort_snak.tex}
-%\input{songs/en_veganer.tex}
-\input{songs/fulbert_og_beatrice.tex}
-\fancyhead[CE,CO]{\CHeadFont\thepage}
+\input{songs/gaffa_wd40.tex}
+\input{songs/doom_doom.tex}
 \input{songs/ode_til_bacon.tex}
-% \input{songs/din_mor.tex}
-% \input{songs/er_jeg_humanist.tex}
-% \input{songs/humanist.tex}
-% \input{songs/humanist_adderer.tex}
-%\input{songs/ingenioersangen.tex}
+\input{songs/fulbert_og_beatrice.tex}
+\input{songs/alfabetsangen.tex}
+\fancyhead[CE,CO]{\CHeadFont\thepage}
+\input{songs/sort_snak.tex}
+\input{songs/en_veganer.tex}
+\input{songs/ingenioersangen.tex}
 % \input{songs/hvem_vil_ikke_gerne_have_sex.tex}
 
 \onecolumn
@@ -384,26 +367,24 @@ Hvis du har forslag til sange, rettelser, ris og ros, eller hvis du kender en uk
 \input{songs/hymne_til_matcamp.tex}
 \input{songs/hvad_maa_man.tex}
 \input{songs/jeg_elsker_science.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
 \input{songs/science_summer_lovin.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
 \input{songs/et_helt_nyt_liv.tex}
-\input{songs/taal_daj_paa_campen.tex}
-\input{songs/steffensangen.tex}
 % \input{songs/vi_er_brandvagter.tex}
 
-%\onecolumn
-%\SBChapter{Studieliv og \LaTeX}
-%\twocolumn
+\onecolumn
+\SBChapter{Studieliv og \LaTeX}
+\twocolumn
+\input{songs/taal_daj.tex}
 % \input{songs/homo.tex}
 % \input{songs/de_tog_stadig_folk_ind.tex}
-%\input{songs/eksamensangst.tex}
-%\input{songs/ser_en_sort_klap_falde.tex}
-%\input{songs/fuck_mit_liv.tex}
-%\input{songs/maple_problemer.tex}
-%\input{songs/reception.tex}
-%\input{songs/brug_latex.tex}
-%\input{songs/texe_sangen.tex}
+\input{songs/eksamensangst.tex}
+\input{songs/ser_en_sort_klap_falde.tex}
+\input{songs/fuck_mit_liv.tex}
+\input{songs/maple_problemer.tex}
+\input{songs/reception.tex}
+\input{songs/texe_i_nat.tex}
+\input{songs/brug_latex.tex}
+\input{songs/texe_sangen.tex}
 
 \onecolumn
 \SBChapter{Datalogi}
@@ -411,115 +392,94 @@ Hvis du har forslag til sange, rettelser, ris og ros, eller hvis du kender en uk
 \input{songs/se_min_kode.tex}
 \input{songs/jeg_har_fundet_mig_en_bug.tex}
 \input{songs/linieskriverdriver.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
 \input{songs/servern_er_crashed.tex}
-\input{songs/doom_doom.tex}
 \input{songs/forever_diku.tex}
-%\input{songs/han_koder_slam.tex}
+\input{songs/han_koder_slam.tex}
 \input{songs/hjemmehackeriet.tex}
-%\input{songs/8-bit-drikkesang.tex}
+\input{songs/i_morgen_er_verden_vor.tex}
+\input{songs/DAT62.tex}
+\input{songs/8-bit-drikkesang.tex}
 \input{songs/HTML.tex}
-%\input{songs/terminalsangen.tex}
+\input{songs/terminalsangen.tex}
 \input{songs/lambda_kalkylen.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
 \input{songs/doktrinen.tex}
 \input{songs/sidder_der_ved_skaermen.tex}
 \input{songs/sidder_foran_skaermen.tex}
-%\input{songs/afrundingsfejl.tex}
-%\input{songs/editorhyldestsangen.tex}
-\input{songs/puslespil.tex}
-\input{songs/ode_til_kode.tex}
-\input{songs/et_helt_nyt_sprog.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
-\input{songs/vi_skal_kode_i_c.tex}
-\input{songs/null.tex}
-\input{songs/i_morgen_er_verden_vor.tex}
-\input{songs/DAT62.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
-\input{songs/send_mig_dit_password.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
-\input{songs/saa_spiller_vi_spil.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
-\input{songs/jeg_kender_et_sprog.tex}
+\input{songs/afrundingsfejl.tex}
+\input{songs/editorhyldestsangen.tex}
 
 \onecolumn
 \SBChapter{Fysik}
 \twocolumn
 \input{songs/vaabenfysik.tex}
 \input{songs/fasebal.tex}
-%\input{songs/ASTRID.tex}
-%\input{songs/jeg_er_fysiker.tex}
+\input{songs/ASTRID.tex}
+\input{songs/jeg_er_fysiker.tex}
 \input{songs/chifitter.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
 \input{songs/steve_hawking.tex}
 \input{songs/kun_fysik.tex}
-%\input{songs/rho-phi-mu.tex}
+\input{songs/rho-phi-mu.tex}
 \input{songs/A-kraft.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
 \input{songs/kvanter_i_maaneskin.tex}
-%\input{songs/faster_than_light.tex}
-%\input{songs/YBCO.tex}
-%\input{songs/seje_ting.tex}
-%\input{songs/kvantepartiklen.tex}
+\input{songs/faster_than_light.tex}
+\input{songs/YBCO.tex}
+\input{songs/seje_ting.tex}
+\input{songs/kvantepartiklen.tex}
 \input{songs/forever_kvant.tex}
-\input{songs/matmatik.tex}
-%\input{songs/du_skal_regne_kvant.tex}
-%\input{songs/ser_en_bombe_spraenge.tex}
+\input{songs/du_skal_regne_kvant.tex}
+\input{songs/ser_en_bombe_spraenge.tex}
 
 \onecolumn
 \SBChapter{Matematik}
 \twocolumn
 \input{songs/kanoniske.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
-%\input{songs/matrix.tex}
-%\input{songs/grassmans_lemma.tex}
+\input{songs/matmatik.tex}
+\input{songs/matrix.tex}
+\input{songs/grassmans_lemma.tex}
 \input{songs/her_paa_matmatik.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
 \input{songs/jeg_er_en_matematiker_fra_hcoe.tex}
-%\input{songs/paa_matmatik.tex}
-%\input{songs/matematikkens_historie.tex}
-%\input{songs/primtal.tex}
-%\input{songs/integralsangen.tex}
-%\input{songs/determinanter.tex}
-%\input{songs/ode_anal_0.tex}
-%\input{songs/ode_anal_1.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
+\input{songs/paa_matmatik.tex}
+\input{songs/matematikkens_historie.tex}
+\input{songs/primtal.tex}
+\input{songs/integralsangen.tex}
+\input{songs/determinanter.tex}
+\input{songs/ode_anal_0.tex}
+\input{songs/ode_anal_1.tex}
 \input{songs/mest_matematiske_dyr.tex}
 \input{songs/ringe_historie.tex}
-%\input{songs/skaeringssaetningen.tex}
+\input{songs/skaeringssaetningen.tex}
 
-%\onecolumn
-%\SBChapter{Kemi, Biologi og Nano}
-%\twocolumn
-%\input{songs/periodic_table.tex}
-%\input{songs/kemisk_elskovsvise.tex}
-%\input{songs/kemisk_julevise.tex}
-%\input{songs/10_smaa_biorus.tex}
+\onecolumn
+\SBChapter{Kemi, Biologi og Nano}
+\twocolumn
+\input{songs/periodic_table.tex}
+\input{songs/kemisk_elskovsvise.tex}
+\input{songs/kemisk_julevise.tex}
+\input{songs/10_smaa_biorus.tex}
+\input{songs/spas_i_waders.tex}
+\input{songs/nano.tex}
+\input{songs/laborant.tex}
+\input{songs/selektionssangen.tex}
+\input{songs/kloner_min_kat.tex}
+\input{songs/pest.tex}
 
-%\input{songs/nano.tex}
-%\input{songs/laborant.tex}
-%\input{songs/kloner_min_kat.tex}
-%\input{songs/pest.tex}
-
-%\onecolumn
-%\SBChapter{Alkohol og druk}
-%\twocolumn
-%\input{songs/busted.tex}
-%\input{songs/der_er_et_oelrigt_land.tex}
+\onecolumn
+\SBChapter{Alkohol og druk}
+\twocolumn
+\input{songs/busted.tex}
+\input{songs/der_er_et_oelrigt_land.tex}
+Hjemmebrænderiet
 
 \onecolumn
 \SBChapter{Almindelige sange}
 \twocolumn
-%\input{songs/puma.tex}
-%\input{songs/all_star.tex}
-%\input{songs/never_gonna_give_you_up.tex}
-%\input{songs/witch_doctor.tex}
-%Pokémon\\
-%I Want It What Way\\
-%Jutlandia\\
-%YMCA
-\input{songs/kaere_linedanser.tex}
-\newpage %Hack for at indholdfortegnelsen har det korrekte side nummer
+\input{songs/puma.tex}
+\input{songs/all_star.tex}
+\input{songs/never_gonna_give_you_up.tex}
+Pokémon\\
+I Want It What Way\\
+Jutlandia\\
+YMCA
 \input{songs/elefant_kom_marcherende.tex}
 \input{songs/rekursiv_skovsang.tex}
 \input{songs/laerkerede.tex}
