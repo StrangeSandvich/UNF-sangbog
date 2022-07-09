@@ -1,4 +1,4 @@
-# Files for the creation of the CSC 2019 songbook
+# Files for the creation of the CSC songbook
 Den er rimelig hacky, men hvis du vil adaptere denne til at lave en sangbog skal du:
 
 Lave en fork og hente repo ned. 
